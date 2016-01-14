@@ -1,0 +1,4 @@
+test3.txt|FIL-WR:27cf5f716678ef20:c82d0b27a22037d4
+test4.txt|FIL-WR:5a29909026b10eed:63ef564736d553cd
+test4.txt|FIL-WR:b727c78c06c18e7b:5adcfe952d804556
+test6.txt|FIL-WR:5c18788cf4a44577:2dc0d05a63bfa3c3
